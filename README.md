@@ -44,7 +44,7 @@ Each category contains 10 different operations, providing a wide range of tools 
 2. Make the script executable:
 
    ```
-   chmod +x advanced_system_manager.sh
+   chmod +x process-manager-script.sh
    ```
 
 ## Usage
