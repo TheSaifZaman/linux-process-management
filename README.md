@@ -37,13 +37,13 @@ Each category contains 10 different operations, providing a wide range of tools 
 
 1. Download the script:
 
-   ```
+   ```sh
    wget https://raw.githubusercontent.com/TheSaifZaman/linux-process-management/main/process-manager-script.sh
    ```
 
 2. Make the script executable:
 
-   ```
+   ```sh
    chmod +x process-manager-script.sh
    ```
 
@@ -51,7 +51,7 @@ Each category contains 10 different operations, providing a wide range of tools 
 
 Run the script with sudo privileges:
 
-```
+```sh
 sudo ./advanced_system_manager.sh
 ```
 
