@@ -52,7 +52,7 @@ Each category contains 10 different operations, providing a wide range of tools 
 Run the script with sudo privileges:
 
 ```sh
-sudo ./advanced_system_manager.sh
+sudo ./process-manager-script.sh
 ```
 
 You will be presented with a main menu. Select a category by entering the corresponding number. Each category has its own submenu with various operations. Follow the on-screen prompts to perform the desired tasks.
@@ -80,5 +80,7 @@ This script is provided as-is, without any warranty. The authors are not respons
 ## Contact
 
 If you have any questions, suggestions, or issues, please open an issue on the GitHub repository or contact the maintainer.
+
+## N.B
 
 Remember to always keep your system updated and regularly back up your important data!
